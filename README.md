@@ -1,7 +1,7 @@
 # Bangla_GED_T5
-Bangla Grammar Error Detection with T5 transformer
+Bangla Grammar Error Detection with T5 Transformer
 
-## 1st Runner's Up at EEEDay Dathathon 2023
+## 1st Runner's Up at EEEDay Dathathon 2023 (Team Schadenfreude)
 https://www.kaggle.com/competitions/bengali-ged/discussion/395940
 
 ## Base Model
